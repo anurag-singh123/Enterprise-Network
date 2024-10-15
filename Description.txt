@@ -1,0 +1,6 @@
+BGP and OSPF for Enterprise Routing
+VPN Configuration (Site-to-Site, Remote Access)
+Network Security Projects (Firewalls, IPS/IDS)
+WAN Redundancy (using MPLS or Dual ISP Setup)
+Voice over IP (VoIP) Configuration
+Data Center Network Design (using VxLAN, Spine-Leaf Topology)
